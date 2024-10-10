@@ -1,0 +1,16 @@
+{
+	"/": [
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/playlists": [
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	],
+	"/profile": [
+		"src/routes/+layout.ts",
+		"src/routes/+layout.server.ts"
+	]
+}
